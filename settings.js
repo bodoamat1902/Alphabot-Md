@@ -43,7 +43,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
 global.ownername = "ᴹᴿ᭄ IbnuuOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.myweb = "https://www.instagram.com/permen1947/" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCcYQzRUxM6cM62RXUS1uI4w" //bebas asal jan hapus
 global.myweb2 = "https://www.instagram.com/permen1947/" //bebas
 global.email = "ibnuazis526@gmail.com" //bebas
